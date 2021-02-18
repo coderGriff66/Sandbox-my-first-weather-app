@@ -1,2 +1,2 @@
-# Sandbox-my-first-weather-app
+# my-first-weather-app-sandbox
 Created with CodeSandbox
